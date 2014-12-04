@@ -1,6 +1,6 @@
 {
   "name":           "uupaa.wmdevelop.js",
-  "version":        "0.0.0",
+  "version":        "0.0.1",
   "description":    "development functions.",
   "url":            "https://github.com/uupaa/WMDevelop.js",
   "keywords":       ["uupaa", "WebModule", "Unstable"],
@@ -42,13 +42,13 @@
     }
   },
   "dependencies": {
-  },
-  "devDependencies": {
     "uupaa.console.js": "",
     "uupaa.valid.js":   "",
     "uupaa.help.js":    "",
     "uupaa.task.js":    "",
     "uupaa.test.js":    ""
+  },
+  "devDependencies": {
   },
   "lib":            "./lib/",
   "main":           "./index.js",
