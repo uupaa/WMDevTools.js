@@ -1,0 +1,4 @@
+WMDevelop.js
+============
+
+development functions.
